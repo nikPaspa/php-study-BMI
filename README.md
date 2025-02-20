@@ -2,18 +2,18 @@
 A simple PHP project to calculate Body Mass Index (BMI)
 
 ## Index
-* Overview
-* Prerequisites
-* Project Structure
-* Installation and Configuration
-* Use
-* BMI Calculation Example
+* **Overview**
+* **Prerequisites**
+* **Project Structure**
+* **Installation and Configuration**
+* **Use**
+* **BMI Calculation Example**
 
 ## Overview
 
-php-study-BMI is a PHP project that demonstrates how to calculate BMI (Body Mass Index) based on weight and height data. Its objective is to illustrate the logic of the calculation in a simple script, which can be used as a reference or study for beginners in PHP.
+php-study-BMI is a PHP project that demonstrates how to calculate BMI (Body Mass Index) based on weight and height data.
 
-What is BMI?
+### What is BMI?
 BMI is the relationship between weight and height that indicates whether a person is within the ideal weight, above or below. The formula for the calculation is:
 ```
 BMI = Weight (kg) / (Height (m))^2
@@ -21,8 +21,8 @@ BMI = Weight (kg) / (Height (m))^2
 
 ## Prerequisites
 
-* Local server (XAMPP, WAMP, etc.) or remote server with PHP support.
-* Basic knowledge of PHP and HTML (if you want to customize the form or the way to present the result).
+* **Local server (XAMPP, WAMP, etc.) or remote server with PHP support.**
+* **Basic knowledge of PHP and HTML (if you want to customize the form or the way to present the result).**
 
 ## Project Structure
 ```
@@ -31,7 +31,7 @@ BMI = Weight (kg) / (Height (m))^2
 └── README.md    # Documento de descrição do projeto
 ```
 
-* BMI.php: Contains the logic for data entry (weight, height) and displays the result of the BMI calculation.
+* **BMI.php:** Contains the logic for data entry (weight, height) and displays the result of the BMI calculation.
 
 ## Installation and Configuration
 
@@ -53,8 +53,8 @@ The script will display the calculated BMI, along with a classification accordin
 
 ## BMI Calculation Example
 
-* Weight: 70kg
-* Height: 1.75 m
+* **Weight: 70kg**
+* **Height: 1.75 m**
 
 Calculation:
 ```
