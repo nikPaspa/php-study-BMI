@@ -37,10 +37,10 @@ BMI = Weight (kg) / (Height (m))^2
 
 Clone or download the repository to your development environment:
 ```
-git clone (https://github.com/nikPaspa/php-study-BMI.git)
+git clone https://github.com/nikPaspa/php-study-BMI.git
 ```
-If you are using a local server (such as XAMPP), place the project folder inside the htdocs directory (or www, depending on the configuration).
-Make sure PHP is active and working properly.
+*If you are using a local server (such as XAMPP), place the project folder inside the htdocs directory (or www, depending on the configuration).
+Make sure PHP is active and working properly.*
 
 ## Use
 Start the Apache server (or other supported server).
@@ -48,8 +48,8 @@ Access the BMI.php file through the browser. Example:
 ```
 http://localhost/php-study-BMI/BMI.php
 ```
-Enter the weight in kilograms (kg) and height in meters (m) as requested in the form or directly in the script (if implemented differently).
-The script will display the calculated BMI, along with a classification according to the value range obtained.
+*Enter the weight in kilograms (kg) and height in meters (m) as requested in the form or directly in the script (if implemented differently).
+The script will display the calculated BMI, along with a classification according to the value range obtained.*
 
 ## BMI Calculation Example
 
@@ -62,4 +62,4 @@ IMC = 70 / (1.75 * 1.75)
 IMC = 70 / 3.0625
 IMC = 22.86 (approximately)
 ```
-The value 22.86 indicates that the person is within the weight range considered normal.
+*The value 22.86 indicates that the person is within the weight range considered normal.*
